@@ -13,3 +13,7 @@
 ### AFTER THIS WE NEED TO CREATE A PERSONAL VIRTUAL ENVIRONMENT FOR IT. (WE WILL BE `VENV`)
 
 `$ python3 -m venv ~/.virtualenvs/myvenv`
+
+## Below command is going to activate the particular virtual environment.
+
+`source ~/.virtualenvs/myvenv/bin/activate`
